@@ -1,5 +1,5 @@
 # Developer
 
-![Developer's Picture](img/1)
+![Developer's Picture](img/1.jpg)
 
-**John Doe**
+**Bmb Network Enterprise**
